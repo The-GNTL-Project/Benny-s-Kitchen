@@ -1,1 +1,1 @@
-You will find the **[Kitchen](https://github.com/The-GNTL-Project/Documentation/wiki)** here
+You will find the **[Kitchen](https://github.com/The-GNTL-Project/Benny-s-Kitchen/wiki)** here
